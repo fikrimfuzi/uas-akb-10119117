@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Linear Layout with vertical orientation and other properties -->
+<!--
+nama      = fikri muhamad fauzi
+nim       = 10119117
+kelas     = if-3
+-->
 
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
