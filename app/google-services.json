@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213321444735",
+    "project_id": "aplikasi-login-firebase-b8a08",
+    "storage_bucket": "aplikasi-login-firebase-b8a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213321444735:android:61d7930ce0ccbd43543e4a",
+        "android_client_info": {
+          "package_name": "com.example.fikri_10119117"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213321444735-lel3mejkocih0evmt7q3jovjf090vrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZL-bVl2jrjmc_0usJz_of2NndXLPiVBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213321444735-lel3mejkocih0evmt7q3jovjf090vrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

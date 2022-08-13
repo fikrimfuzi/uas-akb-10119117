@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+nama      = fikri muhamad fauzi
+nim       = 10119117
+kelas     = if-3
+-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity2">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/manusia2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fikri Muhamad Fauzi"
+        android:layout_marginStart="170dp"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10119117"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="170dp"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IF-3"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="170dp"
+        ></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="fikri.10119117@mahasiswa.unikom.ac.id"
+        android:layout_marginTop="60dp"
+        android:layout_marginStart="170dp"
+        ></TextView>
+
+
+
+
+
+</RelativeLayout>

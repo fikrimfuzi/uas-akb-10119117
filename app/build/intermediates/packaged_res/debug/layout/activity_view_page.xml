@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+nama      = fikri muhamad fauzi
+nim       = 10119117
+kelas     = if-3
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2A2A2A"
+    tools:context=".ViewPageActivity">
+
+    <Button
+        android:id="@+id/btnAct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="@android:color/transparent"
+        android:text="Go to login"
+        android:textColor="#fff"></Button>
+
+    <Button
+        android:id="@+id/btnAct2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:text="Go to register"
+        android:textColor="#fff"></Button>
+
+
+</LinearLayout>

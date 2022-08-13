@@ -1,0 +1,255 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fikri_10119117"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:23:5-67
+11-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:23:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:24:22-76
+13
+14    <application
+14-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:5:5-51:19
+15        android:allowBackup="true"
+15-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:6:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\fakhrads\.gradle\caches\transforms-3\ea18ebfeb6c3b172f1e253da8c4eee22\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:7:9-43
+20        android:label="@string/app_name"
+20-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:8:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:9:9-54
+22        android:supportsRtl="true"
+22-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:10:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.Fikri_10119117" >
+24-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:11:9-52
+25        <activity
+25-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:12:9-14:40
+26            android:name="com.example.fikri_10119117.RegistrationActivity"
+26-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:13:13-49
+27            android:exported="false" />
+27-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:14:13-37
+28        <activity
+28-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:15:9-17:40
+29            android:name="com.example.fikri_10119117.LoginActivity"
+29-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:16:13-42
+30            android:exported="false" />
+30-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:17:13-37
+31        <activity
+31-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:18:9-20:40
+32            android:name="com.example.fikri_10119117.UpdateActivity"
+32-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:19:13-43
+33            android:exported="false" />
+33-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:20:13-37
+34        <activity
+34-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:21:9-23:40
+35            android:name="com.example.fikri_10119117.AddActivity"
+35-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:22:13-40
+36            android:exported="false" />
+36-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:23:13-37
+37        <activity
+37-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:24:9-26:40
+38            android:name="com.example.fikri_10119117.MainActivity2"
+38-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:25:13-42
+39            android:exported="false" />
+39-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:26:13-37
+40        <activity
+40-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:27:9-29:40
+41            android:name="com.example.fikri_10119117.MyDatabaseHelper"
+41-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:28:13-45
+42            android:exported="false" />
+42-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:29:13-37
+43        <activity
+43-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:30:9-32:40
+44            android:name="com.example.fikri_10119117.AboutActivity2"
+44-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:31:13-43
+45            android:exported="false" />
+45-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:32:13-37
+46        <activity
+46-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:33:9-35:40
+47            android:name="com.example.fikri_10119117.MainMenuActivity2"
+47-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:34:13-46
+48            android:exported="false" />
+48-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:35:13-37
+49        <activity
+49-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:36:9-38:40
+50            android:name="com.example.fikri_10119117.SplashScr"
+50-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:37:13-38
+51            android:exported="false" />
+51-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:38:13-37
+52        <activity
+52-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:39:9-41:40
+53            android:name="com.example.fikri_10119117.MainActivity"
+53-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:40:13-41
+54            android:exported="false" />
+54-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:41:13-37
+55        <activity
+55-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:42:9-50:20
+56            android:name="com.example.fikri_10119117.ViewPageActivity"
+56-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:43:13-45
+57            android:exported="true" >
+57-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:44:13-36
+58            <intent-filter>
+58-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:45:13-49:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:46:17-69
+59-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:46:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:48:17-77
+61-->D:\Project\AKB\fikri_10119117_uas\app\src\main\AndroidManifest.xml:48:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:27:9-44:20
+65            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+65-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:28:13-80
+66            android:excludeFromRecents="true"
+66-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:29:13-46
+67            android:exported="true"
+67-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:30:13-36
+68            android:launchMode="singleTask"
+68-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:31:13-44
+69            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+69-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:32:13-72
+70            <intent-filter>
+70-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:33:13-43:29
+71                <action android:name="android.intent.action.VIEW" />
+71-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:34:17-69
+71-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:34:25-66
+72
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:36:17-76
+73-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:36:27-73
+74                <category android:name="android.intent.category.BROWSABLE" />
+74-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:37:17-78
+74-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:37:27-75
+75
+76                <data
+76-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:39:17-42:51
+77                    android:host="firebase.auth"
+77-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:40:21-49
+78                    android:path="/"
+78-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:41:21-37
+79                    android:scheme="genericidp" />
+79-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:42:21-48
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:45:9-62:20
+83            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+83-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:46:13-79
+84            android:excludeFromRecents="true"
+84-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:47:13-46
+85            android:exported="true"
+85-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:48:13-36
+86            android:launchMode="singleTask"
+86-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:49:13-44
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+87-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:50:13-72
+88            <intent-filter>
+88-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:51:13-61:29
+89                <action android:name="android.intent.action.VIEW" />
+89-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:34:17-69
+89-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:34:25-66
+90
+91                <category android:name="android.intent.category.DEFAULT" />
+91-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:36:17-76
+91-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:36:27-73
+92                <category android:name="android.intent.category.BROWSABLE" />
+92-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:37:17-78
+92-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:37:27-75
+93
+94                <data
+94-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:39:17-42:51
+95                    android:host="firebase.auth"
+95-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:40:21-49
+96                    android:path="/"
+96-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:41:21-37
+97                    android:scheme="recaptcha" />
+97-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:42:21-48
+98            </intent-filter>
+99        </activity>
+100
+101        <service
+101-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:64:9-70:19
+102            android:name="com.google.firebase.components.ComponentDiscoveryService"
+102-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:65:13-84
+103            android:directBootAware="true"
+103-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+104            android:exported="false" >
+104-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:66:13-37
+105            <meta-data
+105-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:67:13-69:85
+106                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+106-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:68:17-109
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-auth:21.0.7] C:\Users\fakhrads\.gradle\caches\transforms-3\7f15f74bb3a199bddbf2eccc1a8effb4\transformed\firebase-auth-21.0.7\AndroidManifest.xml:69:17-82
+108        </service>
+109
+110        <provider
+110-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+111            android:name="com.google.firebase.provider.FirebaseInitProvider"
+111-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+112            android:authorities="com.example.fikri_10119117.firebaseinitprovider"
+112-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+113            android:directBootAware="true"
+113-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+114            android:exported="false"
+114-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+115            android:initOrder="100" />
+115-->[com.google.firebase:firebase-common:20.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\69bef3edeb8e54a8a173950fe8c048d2\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+116
+117        <activity
+117-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\7481730722b30e51ccd1fecffec00fd3\transformed\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+118            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+118-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\7481730722b30e51ccd1fecffec00fd3\transformed\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+119            android:exported="false"
+119-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\7481730722b30e51ccd1fecffec00fd3\transformed\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+120-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fakhrads\.gradle\caches\transforms-3\7481730722b30e51ccd1fecffec00fd3\transformed\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+121
+122        <meta-data
+122-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\e0db1146b1a0c6f6568d9f549a740846\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+123            android:name="com.google.android.gms.version"
+123-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\e0db1146b1a0c6f6568d9f549a740846\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+124            android:value="@integer/google_play_services_version" />
+124-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\e0db1146b1a0c6f6568d9f549a740846\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+125
+126        <provider
+126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+127            android:name="androidx.startup.InitializationProvider"
+127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+128            android:authorities="com.example.fikri_10119117.androidx-startup"
+128-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+129            android:exported="false" >
+129-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+130            <meta-data
+130-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+131                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+131-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+132                android:value="androidx.startup" />
+132-->[androidx.emoji2:emoji2:1.0.0] C:\Users\fakhrads\.gradle\caches\transforms-3\184e7dcc15f588f1a56ec87a6529e530\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+133            <meta-data
+133-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\fakhrads\.gradle\caches\transforms-3\5f687113186b4d5fbe4b7fdb689a4526\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+134                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+134-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\fakhrads\.gradle\caches\transforms-3\5f687113186b4d5fbe4b7fdb689a4526\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+135                android:value="androidx.startup" />
+135-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\fakhrads\.gradle\caches\transforms-3\5f687113186b4d5fbe4b7fdb689a4526\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+136        </provider>
+137    </application>
+138
+139</manifest>

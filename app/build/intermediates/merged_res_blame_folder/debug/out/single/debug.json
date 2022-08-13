@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_menu2.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_main_menu2.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_empty.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\drawable\\ic_empty.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\anim_translate_anim.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\anim\\translate_anim.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_my_row.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_page.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_view_page.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_scr.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_splash_scr.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_about2.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_about2.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\drawable_manusia2.jpg.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\drawable\\manusia2.jpg"
+    },
+    {
+        "merged": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration.xml.flat",
+        "source": "D:\\Project\\AKB\\fikri_10119117_uas\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    }
+]
